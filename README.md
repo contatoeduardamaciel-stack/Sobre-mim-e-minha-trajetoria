@@ -7,3 +7,5 @@ Atualmente estou buscando novos conhecimentos com foco e interesse no Desenvolvi
 Trabalhando com a tecnologia espero poder contribuir de forma significativa com a sociedade no geral e nos projetos que farei parte;
 
 Pretendo sempre estar me desenvolvendo e crescendo profissionalmente fazendo o que gosto.
+
+Meu LinkedIn: https://www.linkedin.com/in/eduarda-maciel-137127190/
