@@ -1,2 +1,5 @@
 # 🚀 Sobre mim e meus objetivos
-Eu sou a Duda, tenho 25 anos e estou cursando análise e desenvolvimento de sistemas. Com esse curso pretendo adquirir novos conhecimentos para ganhar novas oportunidades e assim crescer profissionalmente e trabalhar com o que gosto. Atualmente trabalho na área comercial e pretendo em breve migrar para ADS, estou me dedicando ao máximo para adquirir todas as habilidades possíveis e aprender as linguagens o quanto antes. Pretendo me especializar em desenvolvedora full stack e explorar outras especializações que possam me interessar no futuro. Tenho facilidade em aprender novas áreas e espero poder contribuir de forma significativa com meu trabalho desenvolvendo programas que possam vir a trazer praticidade ao meu dia a dia e facilitar a execução de tarefas de todos os envolvidos nos projetos que farei parte.
+Me chamo Eduarda, tenho 25 anos e estou cursando análise e desenvolvimento de sistemas.
+Atualmente estou buscando novos conhecimentos com foco e interesse no Desenvolvimento Web, me especializando em HTML, CSS e JavaScript.
+Trabalhando com a tecnologia espero poder contribuir de forma significativa com a sociedade no geral e nos projetos que farei parte.
+Pretendo sempre estar me desenvolvendo e crescendo profissionalmente fazendo o que gosto.
